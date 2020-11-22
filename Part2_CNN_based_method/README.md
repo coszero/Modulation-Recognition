@@ -1,8 +1,7 @@
-### Change Log
-2020/06/21  
-- Author 
-Chaoxu Pang
-- Step
+## Change Log
+2020/06/21  Uploaded by coszero.
+
+## Usage 
  1. Copy Train data generated from Part0_Generate_datasets to Train/dataset.
  2. Run Train/train.py
  3. Copy Test data generated from  Part0 to Test/dataset.
